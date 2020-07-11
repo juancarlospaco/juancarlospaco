@@ -3,6 +3,8 @@
 [![](https://raw.githubusercontent.com/juancarlospaco/juancarlospaco/master/cheatsheet-pdf.png)](https://www.overleaf.com/read/svnxffsjvscy "Free Cheatsheet PDF Download")
 [![](https://raw.githubusercontent.com/juancarlospaco/juancarlospaco/master/gatabase.png)](https://github.com/juancarlospaco/nim-gatabase#gatabase "Connection-Pooling Compile-Time Async SQL ORM")
 
+[![](https://raw.githubusercontent.com/juancarlospaco/juancarlospaco/master/ftr.png)](https://github.com/juancarlospaco/faster-than-requests#faster-than-requests "HTTP Client lib with MultiThread Web Scrapers")
+
 
 <!--
 
