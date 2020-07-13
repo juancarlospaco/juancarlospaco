@@ -9,7 +9,8 @@
 
 #### Programming Languages
 
-![](https://raw.githubusercontent.com/juancarlospaco/juancarlospaco/master/python.svg)
+<img src="https://raw.githubusercontent.com/juancarlospaco/juancarlospaco/master/python.svg" width="99" height="99" title="Python">
+
 
 <!--
 
