@@ -5,10 +5,6 @@
 [<img src="https://raw.githubusercontent.com/juancarlospaco/juancarlospaco/master/webgui.png" width="256" height="256" title="ElectronJS Alternative, HTML5 GUI, Native speed">](https://juancarlospaco.github.io/webgui)
 [<img src="https://raw.githubusercontent.com/juancarlospaco/juancarlospaco/master/sticker.png" width="256" height="256" title="My Full-Stack Web Framework, Fast as Rust, Simple as Python">](https://nimwc.org)
 ![](https://github-readme-stats.vercel.app/api?username=juancarlospaco&show_icons=true&line_height=15 "Like, Comment and Subscribe for more Hackz!")
-<a href="https://www.twitch.tv/juancarlospaco">
-  <img src="https://img.shields.io/twitch/status/juancarlospaco?style=for-the-badge" height="23" alt="Like, Comment and Subscribe for more Hackz!">
-</a>
+<a href="https://www.twitch.tv/juancarlospaco"><img src="https://img.shields.io/twitch/status/juancarlospaco?style=for-the-badge" height="23"></a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=juancarlospaco.juancarlospaco" height="23" alt="Like, Comment and Subscribe for more Hackz!">
-<a href="https://dev.to/juancarlospaco" alt="Juan Carlos DEV Profile">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="25" width="30">
-</a>
+<a href="https://dev.to/juancarlospaco" alt="Juan Carlos DEV Profile"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="25" width="30"></a>
