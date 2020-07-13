@@ -9,7 +9,7 @@
 
 #### Programming Languages
 
-<img src="./python.svg" width="99" height="99" title="Python">
+<img src="./python.svg?sanitize=true" width="99" height="99" title="Python">
 
 
 <!--
