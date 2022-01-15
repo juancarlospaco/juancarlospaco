@@ -8,8 +8,8 @@
 <a href="https://www.twitch.tv/juancarlospaco"><img src="https://img.shields.io/twitch/status/juancarlospaco?style=for-the-badge" height="23"></a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=juancarlospaco.juancarlospaco" height="23" alt="Like, Comment and Subscribe for more Hackz!">
 <a href="https://dev.to/juancarlospaco" alt="Juan Carlos DEV Profile"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="25" width="30"></a>
-
 # Send Crypto
+
 <details> 
 <summary title="Send Bitcoin"><kbd> Bitcoin BTC </kbd></summary>
 
@@ -89,5 +89,19 @@ DdzFFzCqrht9Y1r4Yx7ouqG9yJNWeXFt69xavLdaeXdu4cQi2yXgNWagzh52o9k9YRh3ussHnBnDrg7v
 **ALGO Algorand Network**
 ```
 WM54DHVZQIQDVTHMPOH6FEZ4U2AU3OBPGAFTHSCYWMFE7ETKCUUOYAW24Q
+```
+</details>
+
+<details> 
+<summary title="Send via Binance Pay"> Binance </summary>
+  
+https://pay.binance.com/en/checkout/e92e536210fd4f62b426ea7ee65b49c3
+</details>
+<details>
+<summary title="Send via Lemon"> Lemon </summary>
+  
+**LemonTag**
+```
+$juancarlospaco
 ```
 </details>
