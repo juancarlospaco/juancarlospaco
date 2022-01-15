@@ -8,3 +8,86 @@
 <a href="https://www.twitch.tv/juancarlospaco"><img src="https://img.shields.io/twitch/status/juancarlospaco?style=for-the-badge" height="23"></a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=juancarlospaco.juancarlospaco" height="23" alt="Like, Comment and Subscribe for more Hackz!">
 <a href="https://dev.to/juancarlospaco" alt="Juan Carlos DEV Profile"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="25" width="30"></a>
+
+# Send Crypto
+<details> 
+<summary title="Send Bitcoin"><kbd> Bitcoin BTC </kbd></summary>
+
+**BEP20 Binance Smart Chain Network BSC**
+```
+0xb78c4cf63274bb22f83481986157d234105ac17e
+```
+**BTC Bitcoin Network**
+```
+1Pnf45MgGgY32X4KDNJbutnpx96E4FxqVi
+```
+</details>
+
+<details> 
+<summary><kbd> Ethereum ETH </kbd> <kbd> Dai DAI </kbd> <kbd> Uniswap UNI </kbd> <kbd> Axie Infinity AXS </kbd> <kbd> Smooth Love Potion SLP </kbd> </summary>
+
+**BEP20 Binance Smart Chain Network BSC**
+```
+0xb78c4cf63274bb22f83481986157d234105ac17e
+```
+**ERC20 Ethereum Network**
+```
+0xb78c4cf63274bb22f83481986157d234105ac17e
+```
+</details>
+<details> 
+<summary title="Send Tether"><kbd> Tether USDT </kbd></summary>
+
+**BEP20 Binance Smart Chain Network BSC**
+```
+0xb78c4cf63274bb22f83481986157d234105ac17e
+```
+**ERC20 Ethereum Network**
+```
+0xb78c4cf63274bb22f83481986157d234105ac17e
+```
+**TRC20 Tron Network**
+```
+TWGft53WgWvH2mnqR8ZUXq1GD8M4gZ4Yfu
+```
+</details>
+<details> 
+<summary title="Send Solana"><kbd> Solana SOL </kbd></summary>
+
+**BEP20 Binance Smart Chain Network BSC**
+```
+0xb78c4cf63274bb22f83481986157d234105ac17e
+```
+**SOL Solana Network**
+```
+FKaPSd8kTUpH7Q76d77toy1jjPGpZSxR4xbhQHyCMSGq
+```
+</details>
+<details> 
+<summary title="Send Cardano"><kbd> Cardano ADA </kbd></summary>
+
+**BEP20 Binance Smart Chain Network BSC**
+```
+0xb78c4cf63274bb22f83481986157d234105ac17e
+```
+**ADA Cardano Network**
+```
+DdzFFzCqrht9Y1r4Yx7ouqG9yJNWeXFt69xavLdaeXdu4cQi2yXgNWagzh52o9k9YRh3ussHnBnDrg7v7W2hSXWXfBhbo2ooUKRFMieM
+```
+</details>
+<details> 
+<summary title="Send Sandbox"><kbd> Sandbox SAND </kbd> <kbd> Decentraland MANA </kbd></summary>
+
+**ERC20 Ethereum Network**
+```
+0xb78c4cf63274bb22f83481986157d234105ac17e
+```
+</details>
+<details> 
+<summary title="Send Algorand"><kbd> Algorand ALGO </kbd></summary>
+
+**ALGO Algorand Network**
+```
+WM54DHVZQIQDVTHMPOH6FEZ4U2AU3OBPGAFTHSCYWMFE7ETKCUUOYAW24Q
+```
+</details>
