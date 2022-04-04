@@ -22,10 +22,14 @@
 ```
 1Pnf45MgGgY32X4KDNJbutnpx96E4FxqVi
 ```
+**Lightning Network**
+```
+juancarlospaco@bitrefill.me
+```  
 </details>
 
 <details> 
-<summary><kbd> Ethereum ETH </kbd> <kbd> Dai DAI </kbd> <kbd> Uniswap UNI </kbd> <kbd> Axie Infinity AXS </kbd> <kbd> Smooth Love Potion SLP </kbd> </summary>
+<summary title="Send Ethereum and DAI"><kbd> Ethereum ETH </kbd> <kbd> Dai DAI </kbd> <kbd> Uniswap UNI </kbd> <kbd> Axie Infinity AXS </kbd> <kbd> Smooth Love Potion SLP </kbd> </summary>
 
 **BEP20 Binance Smart Chain Network BSC**
 ```
@@ -96,12 +100,11 @@ WM54DHVZQIQDVTHMPOH6FEZ4U2AU3OBPGAFTHSCYWMFE7ETKCUUOYAW24Q
 <details> 
 <summary title="Send via Binance Pay"> Binance </summary>
   
-https://pay.binance.com/en/checkout/e92e536210fd4f62b426ea7ee65b49c3
+[https://pay.binance.com/en/checkout/e92e536210fd4f62b426ea7ee65b49c3](https://pay.binance.com/en/checkout/e92e536210fd4f62b426ea7ee65b49c3 "Send via Binance Pay")
 </details>
 <details>
 <summary title="Send via Lemon"> Lemon </summary>
-  
-**LemonTag**
+
 ```
 $juancarlospaco
 ```
