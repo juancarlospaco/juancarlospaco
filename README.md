@@ -4,10 +4,13 @@
 [<img src="https://raw.githubusercontent.com/juancarlospaco/juancarlospaco/master/pypypy.jpg" width="256" height="256" title="I coded my own PIP for Python">](https://github.com/juancarlospaco/plz#plz)
 [<img src="https://raw.githubusercontent.com/juancarlospaco/juancarlospaco/master/webgui.png" width="256" height="256" title="ElectronJS Alternative, HTML5 GUI, Native speed">](https://juancarlospaco.github.io/webgui)
 [<img src="https://raw.githubusercontent.com/juancarlospaco/juancarlospaco/master/sticker.png" width="256" height="256" title="My Full-Stack Web Framework, Fast as Rust, Simple as Python">](https://nimwc.org)
-![](https://github-readme-stats.vercel.app/api?username=juancarlospaco&show_icons=true&line_height=15&include_all_commits=true&theme=radical "Like, Comment and Subscribe for more Hackz!")
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juancarlospaco&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juancarlospaco&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juancarlospaco&theme=2077)
+
 <a href="https://www.twitch.tv/juancarlospaco"><img src="https://img.shields.io/twitch/status/juancarlospaco?style=for-the-badge" height="23"></a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=juancarlospaco.juancarlospaco" height="23" alt="Like, Comment and Subscribe for more Hackz!">
 <a href="https://dev.to/juancarlospaco" alt="Juan Carlos DEV Profile"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="25" width="30"></a>
+
 
 # 💰➡️🍕
 
