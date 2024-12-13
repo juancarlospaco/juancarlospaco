@@ -19,16 +19,12 @@
 
 **BEP20 Binance Smart Chain Network BSC**
 ```
-0xb78c4cf63274bb22f83481986157d234105ac17e
+0x6340f76734d4DF2f61F341056E0c318B66A7A4Ae
 ```
 **BTC Bitcoin Network**
 ```
-1Pnf45MgGgY32X4KDNJbutnpx96E4FxqVi
+bc1qh7hfhg4f33uhjvvhhldv26tclprklpwq3g60df
 ```
-**Lightning Network**
-```
-juancarlospaco@bitrefill.me
-```  
 </details>
 
 <details> 
@@ -36,21 +32,10 @@ juancarlospaco@bitrefill.me
 
 **BEP20 Binance Smart Chain Network BSC**
 ```
-0xb78c4cf63274bb22f83481986157d234105ac17e
-```
-**ERC20 Ethereum Network**
-```
-0xb78c4cf63274bb22f83481986157d234105ac17e
+0x6340f76734d4DF2f61F341056E0c318B66A7A4Ae
 ```
 **TRC20 Tron Network**
 ```
-TPfjb2mbSQQwUe9AScZmu5bRax3dHdBBiL
-```
-</details>
-<details>
-<summary title="Send via Lemon"> Lemon </summary>
-
-```
-$juancarlospaco
+TK39p4TktXA4m6oZWXEGVureSGMsRzxUHM
 ```
 </details>
